@@ -9,7 +9,7 @@ Front-end developer from Russia.
 ![Python](https://img.shields.io/badge/Python-346471?style=for-the-badge&logo=Python&logoColor=FFFFFF)
 ![Angular](https://img.shields.io/badge/Angular-346471?style=for-the-badge&logo=Angular&logoColor=FFFFFF)
 ## You can find me here:
-[![GitHub](https://img.shields.io/badge/GitHub-C1C1C1?style=for-the-badge&logo=GitHub&logoColor=2CA5E0)](https://github.com/bananazbrain)
-[![Telegram](https://img.shields.io/badge/Telegram-C1C1C1?style=for-the-badge&logo=Telegram&logoColor=C1C1C1)](https://t.me/bananazbrain)
-[![Skype](https://img.shields.io/badge/Skype-C1C1C1?style=for-the-badge&logo=Skype&logoColor=2CA5E0)](https://join.skype.com/invite/faFTjgYzQFmd)
-[![Instagram](https://img.shields.io/badge/Instagram-C1C1C1?style=for-the-badge&logo=Instagram&logoColor=2CA5E0)](https://www.instagram.com/bananazbrain/)
+[![GitHub](https://img.shields.io/badge/GitHub-E1E1E1?style=for-the-badge&logo=GitHub&logoColor=2CA5E0)](https://github.com/bananazbrain)
+[![Telegram](https://img.shields.io/badge/Telegram-E1E1E1?style=for-the-badge&logo=Telegram&logoColor=E1E1E1)](https://t.me/bananazbrain)
+[![Skype](https://img.shields.io/badge/Skype-E1E1E1?style=for-the-badge&logo=Skype&logoColor=2CA5E0)](https://join.skype.com/invite/faFTjgYzQFmd)
+[![Instagram](https://img.shields.io/badge/Instagram-E1E1E1?style=for-the-badge&logo=Instagram&logoColor=2CA5E0)](https://www.instagram.com/bananazbrain/)
