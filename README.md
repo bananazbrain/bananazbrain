@@ -11,5 +11,6 @@ Front-end developer from Russia.
 ## You can find me here:
 [![GitHub](https://img.shields.io/badge/GitHub-E1E1E1?style=for-the-badge&logo=GitHub&logoColor=2CA5E0)](https://github.com/bananazbrain)
 [![Telegram](https://img.shields.io/badge/Telegram-E1E1E1?style=for-the-badge&logo=Telegram&logoColor=E1E1E1)](https://t.me/bananazbrain)
+[![UpWork](https://img.shields.io/badge/UpWork-E1E1E1?style=for-the-badge&logo=UpWork&logoColor=2CA5E0)](https://www.upwork.com/o/profiles/users/~014832efca947c5efb/)
 [![Skype](https://img.shields.io/badge/Skype-E1E1E1?style=for-the-badge&logo=Skype&logoColor=2CA5E0)](https://join.skype.com/invite/faFTjgYzQFmd)
 [![Instagram](https://img.shields.io/badge/Instagram-E1E1E1?style=for-the-badge&logo=Instagram&logoColor=2CA5E0)](https://www.instagram.com/bananazbrain/)
