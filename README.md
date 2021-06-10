@@ -4,8 +4,6 @@ Front-end developer from Russia.
 ![HTML/PUG](https://img.shields.io/badge/HTML/PUG-346471?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS/SASS](https://img.shields.io/badge/CSS/SASS-346471?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-346471?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF)
-![jQuery](https://img.shields.io/badge/jQuery-346471?style=for-the-badge&logo=jQuery&logoColor=FFFFFF)
-![Gulp](https://img.shields.io/badge/Gulp-346471?style=for-the-badge&logo=Gulp&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-346471?style=for-the-badge&logo=Python&logoColor=FFFFFF)
 ![Angular](https://img.shields.io/badge/Angular-346471?style=for-the-badge&logo=Angular&logoColor=FFFFFF)
 ## You can find me here:
