@@ -1,13 +1,10 @@
 # Hello! I'm Julia!
 Front-end developer from Russia.
-## Web-Tools & Languages
+## Web-Tools
 ![HTML/PUG](https://img.shields.io/badge/HTML/PUG-346471?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS/SASS](https://img.shields.io/badge/CSS/SASS-346471?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-346471?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-346471?style=for-the-badge&logo=Python&logoColor=FFFFFF)
 ![Angular](https://img.shields.io/badge/Angular-346471?style=for-the-badge&logo=Angular&logoColor=FFFFFF)
 ## You can find me here:
-[![GitHub](https://img.shields.io/badge/GitHub-E1E1E1?style=for-the-badge&logo=GitHub&logoColor=2CA5E0)](https://github.com/bananazbrain)
 [![Telegram](https://img.shields.io/badge/Telegram-E1E1E1?style=for-the-badge&logo=Telegram&logoColor=E1E1E1)](https://t.me/bananazbrain)
-[![UpWork](https://img.shields.io/badge/UpWork-E1E1E1?style=for-the-badge&logo=UpWork&logoColor=2CA5E0)](https://www.upwork.com/o/profiles/users/~014832efca947c5efb/)
-[![Instagram](https://img.shields.io/badge/Instagram-E1E1E1?style=for-the-badge&logo=Instagram&logoColor=2CA5E0)](https://www.instagram.com/bananazbrain/)
